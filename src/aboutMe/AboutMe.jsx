@@ -45,7 +45,7 @@ export default function PresentationSection() {
             <Linkedin size={28} />
           </a>
           <a
-            href="/cv.pdf"
+            href="/Braian_carranza_dev.pdf"
             download
             className="hover:text-indigo-400 transition-colors flex items-center gap-2"
           >
